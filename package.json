@@ -1,6 +1,6 @@
 {
   "name": "web3-create-wallet",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A comprehensive Web3 wallet management package with wallet creation, transaction handling, and recovery features",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

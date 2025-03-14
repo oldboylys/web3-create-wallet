@@ -1,6 +1,6 @@
 {
   "name": "web3-create-wallet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A comprehensive Web3 wallet management package with wallet creation, transaction handling, and recovery features",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/web3-create-wallet.git"
+    "url": "git+https://github.com/oldboylys/web3-create-wallet.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/web3-create-wallet/issues"
+    "url": "https://github.com/oldboylys/web3-create-wallet/issues"
   },
-  "homepage": "https://github.com/yourusername/web3-create-wallet#readme",
+  "homepage": "https://github.com/oldboylys/web3-create-wallet.git",
   "keywords": [
     "web3",
     "ethereum",
